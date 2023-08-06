@@ -1,0 +1,2 @@
+# snippets-ulauncher-extension
+Snippets
