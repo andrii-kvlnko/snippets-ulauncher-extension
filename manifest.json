@@ -9,14 +9,10 @@
   },
   "preferences": [
     {
-      "id": "snippets",
-      "type": "select",
-      "name": "Snippets",
-      "description": "Snippets",
-      "default_value": "snippets",
-      "options": {
-        "source": ""
-      }
+      "id": "source",
+      "type": "text",
+      "name": "Source",
+      "default_value": ""
     }
   ]
 }
