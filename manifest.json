@@ -15,8 +15,8 @@
       "default_value": "snippets"
     },
     {
-      "id": "source",
-      "type": "text",
+      "id": "snippets_source",
+      "type": "input",
       "name": "Source",
       "default_value": ""
     }
