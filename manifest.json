@@ -10,10 +10,13 @@
   "preferences": [
     {
       "id": "snippets",
-      "type": "keyword",
+      "type": "select",
       "name": "Snippets",
       "description": "Snippets",
-      "default_value": "snippets"
+      "default_value": "snippets",
+      "options": {
+        "source": ""
+      }
     }
   ]
 }
