@@ -9,6 +9,12 @@
   },
   "preferences": [
     {
+      "id": "snippets_kw",
+      "type": "keyword",
+      "name": "Keyword",
+      "default_value": "snippets"
+    },
+    {
       "id": "source",
       "type": "text",
       "name": "Source",
