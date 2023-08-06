@@ -1,0 +1,23 @@
+{
+  "required_api_version": "2",
+  "name": "Snippets",
+  "description": "Snippets",
+  "developer_name": "NND",
+  "icon": "images/icon.svg",
+  "options": {
+    "query_debounce": 0.05
+  },
+  "preferences": [
+    {
+      "id": "snippets",
+      "type": "select",
+      "name": "Snippets",
+      "default_value": "snippets",
+      "description": "Snippets extension",
+      "options": {
+        "first": "First",
+        "second": "Second"
+      }
+    }
+  ]
+}
